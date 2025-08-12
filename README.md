@@ -37,3 +37,7 @@ This is a web app where you play a memory match game with a Pokemon theme. Flip 
 ## Credits
 
 Theme and emoji Pokemon inspired by classic games. Built with Vue, Vite, and TypeScript.
+
+## Live Demo
+
+https://lucaselb.github.io/memory-match-game/
